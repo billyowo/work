@@ -1,0 +1,6 @@
+{
+  "appTitle": "ozi",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
