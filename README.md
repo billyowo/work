@@ -1,5 +1,8 @@
 # ozi
 
+![asdf](https://imgur.com/a/KfLQOp5.gif)
+
+
 A new Flutter project.
 
 ## Assets
